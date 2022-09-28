@@ -14,6 +14,9 @@ It uses the native windows screenshot app to take the screenshots
 After you are done you will have a folder full of all of the books pages
 which you can put togather to a book by "printing" it as a pdf.
 
+example of it running:
+https://youtube.com/shorts/yVOQHcCPsz8
+
 ----------------------------------------------------------------------------
 
 Using this code:
