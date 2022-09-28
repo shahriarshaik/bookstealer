@@ -17,6 +17,9 @@ which you can put togather to a book by "printing" it as a pdf.
 example of it running:
 https://youtube.com/shorts/yVOQHcCPsz8
 
+FYI:
+Stealing books is illigal, use with cation
+
 ----------------------------------------------------------------------------
 
 Using this code:
